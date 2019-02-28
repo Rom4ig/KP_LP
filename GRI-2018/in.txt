@@ -1,0 +1,33 @@
+includeGRI;
+int function sum(int a, int b)
+{
+value int result;
+result = a+b;
+back result;
+}
+
+glavn
+{
+value int first;
+value str message;
+value int second;
+value str s;
+value int o;
+value int rez;
+value int k;
+first=4;
+second=-25;
+out(second);
+message="Hello World";
+k=strlen(message);
+s=substr(message,1,2);
+rez=sum(18,first);
+o=double(8);
+out("My First KurseProject");
+out(o);
+out(message);
+out(rez);
+out(k);
+out(s);
+back 0;
+}
