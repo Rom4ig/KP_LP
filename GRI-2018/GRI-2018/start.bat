@@ -1,1 +1,1 @@
-start C:\GRI-2018\Generation.py
+start C:\KP\GRI-2018\Generation.py
